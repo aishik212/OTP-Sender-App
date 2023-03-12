@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_width">60dp</dimen>
+    <dimen name="image_height">60dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
+    <dimen name="defaultLayoutMargin">8dp</dimen>
+    <dimen name="defaultLayoutSubMargin">4dp</dimen>
+    <dimen name="back_arrow_dim">40dp</dimen>
+    <dimen name="defaultFontSize">14sp</dimen>
+</resources>
